@@ -1,2 +1,8 @@
 # pdf_merger
-Python script, that pdf files of a folder into one file. 
+
+A python script that combines all PDF-Files of a given folder and saves them into one PDF file
+<hr>
+
+Requirements:
+python >=3.11
+PyPDF2 >=3.0.1
